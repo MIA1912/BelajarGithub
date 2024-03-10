@@ -16,5 +16,6 @@
 	Pull
 -> Menarik yang ada di gihub ke lokal komputer
 
+	Clone, menduplikat folder di github ke folde D:/
 
 |--------------------------------------------------------------------------
