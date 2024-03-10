@@ -1,0 +1,20 @@
+
+|--------------------------------------------------------------------------
+   Repository
+-> Tempatnya
+
+	Commit
+-> Perubahan kode yang mau disimpan ke Repository
+
+	Push
+-> Setelah di commmit, terus di push, tahap ini untuk mengecek
+	apakah yang di commmit sudah cocok untuk di push ke repo.
+
+	Clone
+-> Menduplikat file di github ke lokal komputer
+
+	Pull
+-> Menarik yang ada di gihub ke lokal komputer
+
+
+|--------------------------------------------------------------------------
